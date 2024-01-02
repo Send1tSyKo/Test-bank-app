@@ -47,6 +47,6 @@ else
    puts ''
    puts 'You have not entered a valid choice'
    puts ''
-   sleep (2)
+   sleep (1)
  end
 end
